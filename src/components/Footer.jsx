@@ -1,4 +1,4 @@
-import Logo from '../assets/logo.svg'
+import Logo from '../assets/Logo.svg'
 import { BsTwitter } from 'react-icons/bs'
 import { BsYoutube } from 'react-icons/bs'
 import { SiLinkedin } from 'react-icons/si'
